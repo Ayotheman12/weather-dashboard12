@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-To view the page, navigate to https://spencersurface.github.io/weather-dashboard in your web browser.
+To view the page, navigate to in your web browser.
 
 To find the current weather and weather forecast in a city, type the city's name in the search bar, then click on the "Search" button. If the city is recognized by the OpenWeather geocoding API, the weather and forecast for the city will appear on the screen, and the city will be added to the search history. To find the weather in one of the cities in the search history, click on the button labelled with that city's name, and the weather and forecast for that city will display again.
 
